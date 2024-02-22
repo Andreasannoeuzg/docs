@@ -3,8 +3,8 @@ title: Using hover cards on GitHub Docs
 intro: 'Hover cards give you information about other articles on {% data variables.product.prodname_docs %}.'
 versions:
   fpt: '*'
-  ghes: '*'
-  ghec: '*'
+  ghs: '*'
+  ghc: '*'
 shortTitle: Hover cards
 redirect_from:
   - /get-started/learning-about-github/using-hover-cards-on-github-docs
